@@ -73,7 +73,7 @@ const baseConfig: IConfigProps['baseConfig'] = {
   enableAcceleration: true,
   networkType: NETWORK_TYPE,
   chainId: CHAIN_ID,
-  // sideChainId: SIDE_CHAIN_ID,
+  sideChainId: SIDE_CHAIN_ID,
   showVconsole: false,
   // chainId: CHAIN_ID,
   keyboard: true,
